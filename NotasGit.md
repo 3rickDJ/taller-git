@@ -10,6 +10,10 @@ Los comandos más comunes utilizados en git son
   * ese utiliza para ver el status de tu repositorio
 * git commit -m "mensaje"
 * git diff --staged
+* git show
+  * Te muestra los cambios que hiciste en el último commit
+* git show commit_id
+  * Te muestra los cambios que hiciste en el commit dado
 
 1. Primer punto
 1. Segundo punto
@@ -39,3 +43,5 @@ Hola estoy en **negritas**
 
 
 Hola estoy en **negritas**
+
+# Otro titulo
