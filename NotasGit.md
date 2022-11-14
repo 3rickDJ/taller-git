@@ -9,6 +9,7 @@ Los comandos más comunes utilizados en git son
 * git status
   * ese utiliza para ver el status de tu repositorio
 * git commit -m "mensaje"
+* git diff --staged
 
 1. Primer punto
 1. Segundo punto
@@ -27,3 +28,14 @@ int a = 10;
 String b = "";
 print( a + b)
 ```
+
+## Cómo poner un texto en negritas
+
+Para poner una palbra en negritas hace falta rodear a la palabra con dos **. Ejemplo:
+
+```md
+Hola estoy en **negritas**
+```
+
+
+Hola estoy en **negritas**
