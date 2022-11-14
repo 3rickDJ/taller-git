@@ -36,3 +36,18 @@ int a = 10;
 String b = "";
 print( a + b)
 ```
+
+## Cómo poner un texto en negritas
+
+Para poner una palbra en negritas hace falta rodear a la palabra con dos **. Ejemplo:
+
+```md
+Hola estoy en **negritas**
+```
+
+
+Hola estoy en **negritas**
+
+# Otro titulo
+
+Hola!!!
